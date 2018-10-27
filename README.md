@@ -1,6 +1,7 @@
 # vue-ts-admin
 > 一个基于 `vue`+`vuex`+`ant-design-vue`+`typescript`的中后台脚手架
-
+#### 预览地址
+https://cqmimi.club
 ## 环境依赖
 
 * node -- 运行/编译
